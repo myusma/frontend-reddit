@@ -1,0 +1,31 @@
+.outer-content-subreddit-specifications {
+    background-color: #FDF4F2;
+    padding-top: 100px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 250px;
+    padding-bottom: 100px;
+}
+
+.title {
+    text-align: center;
+    background-color: #e7613a;
+    padding: 100px;
+}
+
+.take-me-back {
+    color: #dd3038;
+}
+
+.back-icon {
+    padding-top: 100px;
+}
+
+.h3 {
+
+    font-weight: bolder;
+    font-size: medium;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
